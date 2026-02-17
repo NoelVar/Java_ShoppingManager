@@ -8,8 +8,9 @@ The Westminster Shopping Manager is a dual-interface application that serves bot
 
 ### Class and Use Case diagrams
 Class and Use Case diagrams were also created as part of the project development:
+
 ![Description](images/UML_CLASS_Diagram_CW.jpg)
-![Description](images/UML_USE_CASE_Diagram_CW.jpg)
+![Description](images/UML_Use_Case_Diagram_CW.jpg)
 
 ## Features
 
@@ -19,6 +20,7 @@ Class and Use Case diagrams were also created as part of the project development
 - Print the full product list as an array
 - Save the product list to a file
 - See terminal:
+
 ![Description](images/Terminal.png)
 
 ### Customer (GUI)
@@ -27,6 +29,7 @@ Class and Use Case diagrams were also created as part of the project development
 - Select a product to view its details
 - Add products to a shopping cart with a running total price
 - See GUI:
+
 ![Description](images/GUI.png)
 
 ## Technologies
